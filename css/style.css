@@ -1,41 +1,129 @@
-*{
+*, *:before, *:after {
   box-sizing: border-box;
 }
 
 html {
   /* sets up base size for rem to be calculated from */
   font-size: 10px;
-  font-family: sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 body {
-  background-color: blue;
+  background-color: white;
 }
 
 p {
   font-size: 1.6rem;
   margin-top: .5rem;
+  color: #fff
 }
 
 h1{
+  font-weight: bold;
   font-size: 2.4rem;
-}
-
-
-.container {
-  background-color: white;
-  /* setting container in the middle */
-  margin: 0 auto;
-  width: 100%;
-}
-
-section {
-  background-color: #0A0A29;
   color: #fff;
-  height: 20rem;
-  margin-top: 1rem;
-  padding: 10rem 0;
+}
 
+h2{
+  font-size: 1.6rem;
+  color: #000;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 1.2rem;
+  color: #000;
+  padding-top: 2%;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 2rem;
+  color: #000;
+}
+
+h5{
+  font-size: 1.2rem;
+  color: red;
+  padding-top: 2%;
+}
+
+.container{
+  height: auto;
+  width: 100%;
+  margin: 0;
+}
+
+.system-bar{
+  background-color: #181818;
+  height: 2.4rem;
+  display: flex;
+  justify-content: flex-end;
+  padding: 2% 1%;
+}
+
+.app-bar{
+  background-color: #018786;
+  height: 6.5rem;
+  display: flex;
+  justify-content: flex-start;
+  /* padding: 5% 3% 3% 3%; */
+}
+
+.arrow{
+  padding: 5% 2% 4% 4%;
+}
+
+.bar-text{
+  padding: 2% 2% ;
+}
+
+.overflow{
+  margin-left: auto;
+  padding: 5% 4% 2% 4%;
+
+}
+
+.responsive{
+  max-width: 100%;
+  display: flex;
+  min-height: 10rem;
+  /* box-shadow: 0px 0px 0px 8px rgba(0,0,0,0.3); */
+}
+
+.bus{
+  height: 7rem;
+  display: flex;
+  justify-content: flex-start;
+  /* padding: 5% 5%; */
+  border-bottom: solid 1px rgba(0,0,0,0.12);
+}
+
+.line{
+  padding: 3% 5%;
+}
+
+.content{
+   padding:5% 1%;
+}
+
+.time{
+   margin-left: auto;
+   padding: 5% 5%;
+}
+
+.alert{
+  margin-left: auto;
+  padding: 5% 7%;
+}
+
+.footer{
+  background-color: #018786;
+  height: 6.5rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 5% 5%;
+  flex-shrink: 0;
 }
 
 @media screen and (min-width: 1000px) {
