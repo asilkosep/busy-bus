@@ -4,8 +4,8 @@
 
 html {
   /* sets up base size for rem to be calculated from */
-  font-size: 10px;
   font-family: "Roboto", sans-serif;
+  font-size: 10px;
 }
 
 body {
@@ -121,17 +121,17 @@ h5{
 
 .footer{
   background-color: #018786;
-  height: 6.5rem;
+  height: 5.5rem;
   display: flex;
   justify-content: space-between;
-  padding: 5% 5%;
+  padding: 4% 5%;
   flex-shrink: 0;
   bottom:0;
   position: fixed;
   width: 100%;
 }
-
-@media screen and (min-width: 1000px) {
+/*
+@media screen and (min-width: 500px) {
   .container {
-    width: 70%;
-}
+    width: 100%;
+} */
