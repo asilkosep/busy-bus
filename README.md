@@ -20,8 +20,10 @@ My design process included:
 
 
 Below, you can see a screenshot of the page that I designed and rendered:
-![BusyBus Screen](https://drive.google.com/file/d/1p9hfZtZ0RNsOxH5oBQQxfuH9p-oyuuXj/view?usp=sharing)
+![BusyBus Screen](busybus_figma1.png)
 
 
-Please see link to my full presentation ![BusyBus Presentation](https://drive.google.com/file/d/1jlPamyahJKvlqtf-SHXvcx_XJzX7E01p/view?usp=sharing)
+Please see link to my full presentation:
+
+https://drive.google.com/file/d/1jlPamyahJKvlqtf-SHXvcx_XJzX7E01p/view?usp=sharing
 
