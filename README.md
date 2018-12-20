@@ -2,7 +2,9 @@
 
 BusyBus is an alternative transit app that enhances the experience of the bus commuter by providing a clean and easy interface for all things related to bus commuting.
 
+
 The particular screen that was coded was a case study for one particularly busy stop, and reflects my solution for displaying the various pieces of information necessary.
+
 
 My design process included:
 1. User Surveys
@@ -16,9 +18,10 @@ My design process included:
 9. High Fidelity Mockups
 10. Development of one main screen in HTML/CSS/JS
 
+
 Below, you can see a screenshot of the page that I designed and rendered:
+![BusyBus Screen](https://drive.google.com/file/d/1p9hfZtZ0RNsOxH5oBQQxfuH9p-oyuuXj/view?usp=sharing)
 
 
+Please see link to my full presentation ![BusyBus Presentation](https://drive.google.com/file/d/1jlPamyahJKvlqtf-SHXvcx_XJzX7E01p/view?usp=sharing)
 
-Please see link to my full presentation, below:
-https://drive.google.com/file/d/1jlPamyahJKvlqtf-SHXvcx_XJzX7E01p/view?usp=sharing
